@@ -14,7 +14,7 @@ También se debe tener instalado virtualenv para crear un entorno virtual. En ca
 
 ## Pasos a realizar
 
-1. Crear el repositorio en donde se almacenará el proyecto, y almacenar todos los archivos desscargados desde github
+1. Crear el repositorio en donde se almacenará el proyecto, y clonar todos los archivos desde este repositorio de github
 2. Crear y activar el entorno virtual, para ello deberá ejecutarse lo siguiente dentro del repositorio ya creado previamente:
    - $ virtualenv  venv -p python3 (crea el entorno virtual)
    - $ source venv/bin/activate (activa el entorno virtual)
